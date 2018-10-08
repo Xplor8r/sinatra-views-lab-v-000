@@ -10,7 +10,7 @@ gem 'shotgun'
 gem 'pry'
 gem 'require_all'
 
-    
+
 group :test do
   gem 'rspec'
   gem 'capybara'
